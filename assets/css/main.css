@@ -1,4 +1,7 @@
 body{
-background-color: orange;
+    font-family: 'Ramabhadra', sans-serif;
+    background-color: orange;
 }
-.
+h1,h3{
+      font-family: 'Alfa Slab One', cursive;
+}
